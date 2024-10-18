@@ -189,6 +189,7 @@ body{
 	margin-bottom: 15px;
 	line-height: 20px;
 }
+
 .color-plate span {
 	width: 42px;
 	height: 35px;
@@ -308,6 +309,7 @@ body{
 .get-quote .btn{
 	color:#fff;
 }
+
 .header .logo {
 	float: left;
 	margin-top: 18px;
@@ -404,6 +406,8 @@ body{
 	margin:0;
 	padding:0;
 	margin-top: 7px;
+	width: 60px;
+	height: 75px;
 }
 .header .single-widget i {
 	position: absolute;
