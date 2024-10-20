@@ -717,6 +717,7 @@ body{
     -o-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s;
 }
+
 .schedule .single-schedule .inner {
 	overflow:hidden;
 	position: relative;
@@ -1076,7 +1077,7 @@ body{
 	Start Call to action CSS
 =================================*/
 .call-action{
-	background-image:url('img/call-bg.jpg');
+	background-image:url('img/back3.jpg');
 	background-size:cover;
 	background-position:center;
 	position:relative;
